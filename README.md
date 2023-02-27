@@ -1,6 +1,6 @@
 <h1 align="center"> exercicio de heranca</h1>
 
-<p align="center">Exercícios de herança que consiste em criar um programa onde 
+<p align="center">Exercício de herança que consiste em criar um programa onde 
 você pode cadastrar animais</p>
 
 <a> a. Crie as classes solicitadas.</a></br>
